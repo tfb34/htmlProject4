@@ -1,0 +1,99 @@
+body{
+background-color: #33302e;
+margin:0px;
+}
+
+#content{
+margin-left:20%;
+margin-right:20%;
+}
+/*#images img{
+display:inline-block;
+height:150px;
+width:150px;
+border:1px solid blue;
+margin-left:auto;
+margin-right:0px;
+box-shadow: 1px 1px 5px #888;
+}
+#images{
+text-align:center;
+
+}*/
+
+header{
+border: 0.5px solid grey;
+height:400px;
+background: url("http://imgur.com/vV1QFDe.jpg") no-repeat;
+text-align:center;
+background-position:center;
+background-size: cover;
+
+}
+h1{
+font-size:400%;
+color:#f8f6f9;
+/*border:1px solid blue;*/
+margin-top:100px;
+margin-bottom:0px;
+margin-left
+}
+h3{
+font-size:200%;
+color:#f4f3f0;
+/*border:1px solid blue;*/
+margin-top: 0px;
+padding-left:10px;
+}
+.menu{
+table-layout: fixed;
+width:90%;
+height:50px;
+/*border:1px solid white;*/
+margin: auto;
+font-size:20px;
+padding-top: 20px;
+padding-bottom:10px;
+text-decoration:none;
+}
+.menu td{
+/*border:1px solid blue;*/
+text-align:center;
+}
+.menu a{
+text-decoration: none;
+color:#f8f6f9;
+}
+.menu a:hover{
+box-shadow: 10px 5px 20px #888;
+
+}
+#sampleArchive img{
+height: 200px;
+width: 200px;
+padding-top:10px;
+padding-bottom:10px;
+}
+#sampleArchive{
+/*border: 1px solid white;*/
+padding-top:20px;
+padding-bottom:20px;
+width:100%;
+}
+#sampleArchive td{
+/*border: 1px solid red;*/
+text-align: center;
+}
+
+#footMenu{
+color: #eebc72;
+height:100px;
+width:100%;
+background-color:#1e1c19;
+margin:0px;
+text-align: left;
+padding-left:270px;
+padding-top:30px;
+padding-bottom:50px;
+}
+
